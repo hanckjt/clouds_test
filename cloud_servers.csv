@@ -1,0 +1,176 @@
+cloud,location,endpoint
+AWS,南非(开普敦) - South Africa(Cape Town),ec2.af-south-1.amazonaws.com
+AWS,中国(香港) - China(Hong Kong),ec2.ap-east-1.amazonaws.com
+AWS,日本(东京) - Japan(Tokyo),ec2.ap-northeast-1.amazonaws.com
+AWS,韩国(首尔) - South Korea(Seoul),ec2.ap-northeast-2.amazonaws.com
+AWS,日本(大阪) - Japan(Osaka),ec2.ap-northeast-3.amazonaws.com
+AWS,新加坡(新加坡) - Singapore(Singapore),ec2.ap-southeast-1.amazonaws.com
+AWS,澳大利亚(悉尼) - Australia(Sydney),ec2.ap-southeast-2.amazonaws.com
+AWS,印度尼西亚(雅加达) - Indonesia(Jakarta),ec2.ap-southeast-3.amazonaws.com
+AWS,澳大利亚(墨尔本) - Australia(Melbourne),ec2.ap-southeast-4.amazonaws.com
+AWS,印度(孟买) - India(Mumbai),ec2.ap-south-1.amazonaws.com
+AWS,印度(海得拉巴) - India(Hyderabad),ec2.ap-south-2.amazonaws.com
+AWS,加拿大(多伦多) - Canada(Toronto),ec2.ca-central-1.amazonaws.com
+AWS,德国(法兰克福) - Germany(Frankfurt),ec2.eu-central-1.amazonaws.com
+AWS,瑞士(苏黎世) - Switzerland(Zurich),ec2.eu-central-2.amazonaws.com
+AWS,瑞典(斯德哥尔摩) - Sweden(Stockholm),ec2.eu-north-1.amazonaws.com
+AWS,意大利(米兰) - Italy(Milan),ec2.eu-south-1.amazonaws.com
+AWS,西班牙(马德里) - Spain(Madrid),ec2.eu-south-2.amazonaws.com
+AWS,爱尔兰(都柏林) - Ireland(Dublin),ec2.eu-west-1.amazonaws.com
+AWS,英国(伦敦) - United Kingdom(London),ec2.eu-west-2.amazonaws.com
+AWS,法国(巴黎) - France(Paris),ec2.eu-west-3.amazonaws.com
+AWS,阿联酋(迪拜) - United Arab Emirates(Dubai),ec2.me-central-1.amazonaws.com
+AWS,巴林(麦纳麦) - Bahrain(Manama),ec2.me-south-1.amazonaws.com
+AWS,巴西(圣保罗) - Brazil(S?o Paulo),ec2.sa-east-1.amazonaws.com
+AWS,美国(弗吉尼亚) - United States(Virginia),ec2.us-east-1.amazonaws.com
+AWS,美国(俄亥俄) - United States(Ohio),ec2.us-east-2.amazonaws.com
+AWS,美国(加利福尼亚) - United States(California),ec2.us-west-1.amazonaws.com
+AWS,美国(俄勒冈) - United States(Oregon),ec2.us-west-2.amazonaws.com
+AWS,中国(北京) - China(Beijing),ec2.cn-north-1.amazonaws.com.cn
+AWS,中国(银川) - China(Yinchuan),ec2.cn-northwest-1.amazonaws.com.cn
+Aliyun,中国(北京) - China(Beijing),www.oss-cn-beijing.aliyuncs.com
+Aliyun,中国(成都) - China(Chengdu),www.oss-cn-chengdu.aliyuncs.com
+Aliyun,中国(广州) - China(Guangzhou),www.oss-cn-guangzhou.aliyuncs.com
+Aliyun,中国(杭州) - China(Hangzhou),www.oss-cn-hangzhou.aliyuncs.com
+Aliyun,中国(河源) - China(Heyuan),www.oss-cn-heyuan.aliyuncs.com
+Aliyun,中国(呼和浩特) - China(Hohhot),www.oss-cn-huhehaote.aliyuncs.com
+Aliyun,中国(青岛) - China(Qingdao),www.oss-cn-qingdao.aliyuncs.com
+Aliyun,中国(上海) - China(Shanghai),www.oss-cn-shanghai.aliyuncs.com
+Aliyun,中国(深圳) - China(Shenzhen),www.oss-cn-shenzhen.aliyuncs.com
+Aliyun,中国(乌兰浩特) - China(Ulanhot),www.oss-cn-wulanchabu.aliyuncs.com
+Aliyun,中国(张家口) - China(Zhangjiakou),www.oss-cn-zhangjiakou.aliyuncs.com
+Aliyun,中国(香港) - China(Hong Kong),www.oss-cn-hongkong.aliyuncs.com
+Aliyun,日本(东京) - Japan(Tokyo),www.oss-ap-northeast-1.aliyuncs.com
+Aliyun,韩国(首尔) - South Korea(Seoul),www.oss-ap-northeast-2.aliyuncs.com
+Aliyun,印度(孟买) - India(Mumbai),www.oss-ap-south-1.aliyuncs.com
+Aliyun,新加坡(新加坡) - Singapore(Singapore),www.oss-ap-southeast-1.aliyuncs.com
+Aliyun,澳大利亚(悉尼) - Australia(Sydney),www.oss-ap-southeast-2.aliyuncs.com
+Aliyun,马来西亚(吉隆坡) - Malaysia(Kuala Lumpur),www.oss-ap-southeast-3.aliyuncs.com
+Aliyun,印度尼西亚(雅加达) - Indonesia(Jakarta),www.oss-ap-southeast-5.aliyuncs.com
+Aliyun,菲律宾(马尼拉) - Philippines(Manila),www.oss-ap-southeast-6.aliyuncs.com
+Aliyun,泰国(曼谷) - Thailand(Bangkok),www.oss-ap-southeast-7.aliyuncs.com
+Aliyun,德国(法兰克福) - Germany(Frankfurt),www.oss-eu-central-1.aliyuncs.com
+Aliyun,英国(伦敦) - United Kingdom(London),www.oss-eu-west-1.aliyuncs.com
+Aliyun,阿联酋(迪拜) - United Arab Emirates(Dubai),www.oss-me-east-1.aliyuncs.com
+Aliyun,美国(弗吉尼亚) - United States(Virginia),www.oss-us-east-1.aliyuncs.com
+Aliyun,美国(硅谷) - United States(Silicon Valley),www.oss-us-west-1.aliyuncs.com
+Oracle,韩国(春川) - South Korea(Chuncheon),objectstorage.ap-chuncheon-1.oraclecloud.com
+Oracle,印度(海得拉巴) - India(Hyderabad),objectstorage.ap-hyderabad-1.oraclecloud.com
+Oracle,日本(大阪) - Japan(Osaka),objectstorage.ap-osaka-1.oraclecloud.com
+Oracle,韩国(首尔) - South Korea(Seoul),objectstorage.ap-seoul-1.oraclecloud.com
+Oracle,澳大利亚(悉尼) - Australia(Sydney),objectstorage.ap-sydney-1.oraclecloud.com
+Oracle,日本(东京) - Japan(Tokyo),objectstorage.ap-tokyo-1.oraclecloud.com
+Oracle,澳大利亚(墨尔本) - Australia(Melbourne),objectstorage.ap-melbourne-1.oraclecloud.com
+Oracle,印度(孟买) - India(Mumbai),objectstorage.ap-mumbai-1.oraclecloud.com
+Oracle,美国(阿什本) - United States(Ashburn),objectstorage.us-ashburn-1.oraclecloud.com
+Oracle,美国(凤凰城) - United States(Phoenix),objectstorage.us-phoenix-1.oraclecloud.com
+Oracle,美国(圣何塞) - United States(San Jose),objectstorage.us-sanjose-1.oraclecloud.com
+Oracle,加拿大(蒙特利尔) - Canada(Montreal),objectstorage.ca-montreal-1.oraclecloud.com
+Oracle,加拿大(多伦多) - Canada(Toronto),objectstorage.ca-toronto-1.oraclecloud.com
+Oracle,英国(加的夫) - United Kingdom(Cardiff),objectstorage.uk-cardiff-1.oraclecloud.com
+Oracle,英国(伦敦) - United Kingdom(London),objectstorage.uk-london-1.oraclecloud.com
+Oracle,荷兰(阿姆斯特丹) - Netherlands(Amsterdam),objectstorage.eu-amsterdam-1.oraclecloud.com
+Oracle,德国(法兰克福) - Germany(Frankfurt),objectstorage.eu-frankfurt-1.oraclecloud.com
+Oracle,瑞士(苏黎世) - Switzerland(Zurich),objectstorage.eu-zurich-1.oraclecloud.com
+Oracle,阿联酋(迪拜) - United Arab Emirates(Dubai),objectstorage.me-dubai-1.oraclecloud.com
+Oracle,沙特阿拉伯(吉达) - Saudi Arabia(Jeddah),objectstorage.me-jeddah-1.oraclecloud.com
+Oracle,智利(圣地亚哥) - Chile(Santiago),objectstorage.sa-santiago-1.oraclecloud.com
+Oracle,巴西(圣保罗) - Brazil(S?o Paulo),objectstorage.sa-saopaulo-1.oraclecloud.com
+Baidu,中国(保定) - China(Baoding),www.bd.bcebos.com
+Baidu,中国(北京) - China(Beijing),www.bj.bcebos.com
+Baidu,中国(广州) - China(Guangzhou),www.gz.bcebos.com
+Baidu,中国(上海) - China(Shanghai),www.fsh.bcebos.com
+Baidu,中国(苏州) - China(Suzhou),www.su.bcebos.com
+Baidu,中国(武汉) - China(Wuhan),www.fwh.bcebos.com
+Baidu,中国(香港) - China(Hong Kong),www.hkg.bcebos.com
+Baidu,新加坡(新加坡) - Singapore(Singapore),www.sin.bcebos.com
+Huawei,中国(北京) - China(Beijing),www.obs-website.cn-north-1.myhuaweicloud.com
+Huawei,中国(北京) - China(Beijing),www.obs-website.cn-north-4.myhuaweicloud.com
+Huawei,中国(乌兰浩特) - China(Ulanhot),www.obs-website.cn-north-9.myhuaweicloud.com
+Huawei,中国(广州) - China(Guangzhou),www.obs-website.cn-south-1.myhuaweicloud.com
+Huawei,中国(贵阳) - China(Guiyang),www.obs-website.cn-southwest-2.myhuaweicloud.com
+Huawei,中国(上海) - China(Shanghai),www.obs-website.cn-east-2.myhuaweicloud.com
+Huawei,中国(上海) - China(Shanghai),www.obs-website.cn-east-3.myhuaweicloud.com
+Huawei,中国(香港) - China(Hong Kong),www.obs-website.ap-southeast-1.myhuaweicloud.com
+Huawei,泰国(曼谷) - Thailand(Bangkok),www.obs-website.ap-southeast-2.myhuaweicloud.com
+Huawei,新加坡(新加坡) - Singapore(Singapore),www.obs-website.ap-southeast-3.myhuaweicloud.com
+Huawei,墨西哥(墨西哥城) - Mexico(Mexico City),www.obs-website.na-mexico-1.myhuaweicloud.com
+Huawei,墨西哥(墨西哥城) - Mexico(Mexico City),www.obs-website.la-north-2.myhuaweicloud.com
+Huawei,巴西(圣保罗) - Brazil(S?o Paulo),www.obs-website.sa-brazil-1.myhuaweicloud.com
+Huawei,智利(圣地亚哥) - Chile(Santiago),www.obs-website.la-south-2.myhuaweicloud.com
+Huawei,南非(约翰内斯堡) - South Africa(Johannesburg),www.obs-website.af-south-1.myhuaweicloud.com
+Huawei,俄罗斯(莫斯科) - Russia(Moscow),obs.ru-moscow-1.hc.sbercloud.ru
+Tencent,中国(北京) - China(Beijing),www.cos-website.ap-beijing.myqcloud.com
+Tencent,中国(成都) - China(Chengdu),www.cos-website.ap-chengdu.myqcloud.com
+Tencent,中国(重庆) - China(Chongqing),www.cos-website.ap-chongqing.myqcloud.com
+Tencent,中国(广州) - China(Guangzhou),www.cos-website.ap-guangzhou.myqcloud.com
+Tencent,中国(南京) - China(Nanjing),www.cos-website.ap-nanjing.myqcloud.com
+Tencent,中国(上海) - China(Shanghai),www.cos-website.ap-shanghai.myqcloud.com
+Tencent,中国(北京) - China(Beijing),www.cos-website.ap-beijing-fsi.myqcloud.com
+Tencent,中国(上海) - China(Shanghai),www.cos-website.ap-shanghai-fsi.myqcloud.com
+Tencent,中国(深圳) - China(Shenzhen),www.cos-website.ap-shenzhen-fsi.myqcloud.com
+Tencent,中国(香港) - China(Hong Kong),www.cos-website.ap-hongkong.myqcloud.com
+Tencent,泰国(曼谷) - Thailand(Bangkok),www.cos-website.ap-bangkok.myqcloud.com
+Tencent,印度尼西亚(雅加达) - Indonesia(Jakarta),www.cos-website.ap-jakarta.myqcloud.com
+Tencent,印度(孟买) - India(Mumbai),www.cos-website.ap-mumbai.myqcloud.com
+Tencent,韩国(首尔) - South Korea(Seoul),www.cos-website.ap-seoul.myqcloud.com
+Tencent,新加坡(新加坡) - Singapore(Singapore),www.cos-website.ap-singapore.myqcloud.com
+Tencent,日本(东京) - Japan(Tokyo),www.cos-website.ap-tokyo.myqcloud.com
+Tencent,德国(法兰克福) - Germany(Frankfurt),www.cos-website.eu-frankfurt.myqcloud.com
+Tencent,俄罗斯(莫斯科) - Russia(Moscow),www.cos-website.eu-moscow.myqcloud.com
+Tencent,美国(阿什本) - United States(Ashburn),www.cos-website.na-ashburn.myqcloud.com
+Tencent,美国(硅谷) - United States(Silicon Valley),www.cos-website.na-siliconvalley.myqcloud.com
+Tencent,加拿大(多伦多) - Canada(Toronto),www.cos-website.na-toronto.myqcloud.com
+Tencent,巴西(圣保罗) - Brazil(S?o Paulo),www.cos-website.sa-saopaulo.myqcloud.com
+Linode,美国(纽瓦克) - United States(Newark),speedtest.newark.linode.com
+Linode,美国(亚特兰大) - United States(Atlanta),speedtest.atlanta.linode.com
+Linode,美国(达拉斯) - United States(Dallas),speedtest.dallas.linode.com
+Linode,美国(弗里蒙特) - United States(Fremont),speedtest.fremont.linode.com
+Linode,加拿大(多伦多) - Canada(Toronto),speedtest.toronto1.linode.com
+Linode,德国(法兰克福) - Germany(Frankfurt),speedtest.frankfurt.linode.com
+Linode,英国(伦敦) - United Kingdom(London),speedtest.london.linode.com
+Linode,新加坡(新加坡) - Singapore(Singapore),speedtest.singapore.linode.com
+Linode,日本(东京) - Japan(Tokyo),speedtest.tokyo2.linode.com
+Linode,印度(孟买) - India(Mumbai),speedtest.mumbai1.linode.com
+Linode,澳大利亚(悉尼) - Australia(Sydney),speedtest.syd1.linode.com
+Ucloud,中国(北京) - China(Beijing),www.cn-bj.ufileos.com
+Ucloud,中国(广州) - China(Guangzhou),www.cn-gd.ufileos.com
+Ucloud,中国(上海) - China(Shanghai),www.cn-sh2.ufileos.com
+Ucloud,中国(香港) - China(Hong Kong),www.hk.ufileos.com
+Ucloud,中国(台北) - China(Taipei),www.tw-tp.ufileos.com
+Ucloud,尼日利亚(拉各斯) - Nigeria(Lagos),www.afr-nigeria.ufileos.com
+Ucloud,巴西(圣保罗) - Brazil(S?o Paulo),www.bra-saopaulo.ufileos.com
+Ucloud,德国(法兰克福) - Germany(Frankfurt),www.ge-fra.ufileos.com
+Ucloud,印度尼西亚(雅加达) - Indonesia(Jakarta),www.idn-jakarta.ufileos.com
+Ucloud,印度(孟买) - India(Mumbai),www.ind-mumbai.ufileos.com
+Ucloud,日本(东京) - Japan(Tokyo),152.32.201.225
+Ucloud,韩国(首尔) - South Korea(Seoul),www.kr-seoul.ufileos.com
+Ucloud,新加坡(新加坡) - Singapore(Singapore),www.sg.ufileos.com
+Ucloud,阿联酋(迪拜) - United Arab Emirates(Dubai),www.uae-dubai.ufileos.com
+Ucloud,美国(洛杉矶) - United States(Los Angeles),www.us-ca.ufileos.com
+Ucloud,美国(华盛顿特区) - United States(Washington D.C.),www.us-ws.ufileos.com
+Ucloud,越南(胡志明市) - Vietnam(Ho Chi Minh City),www.vn-sng.ufileos.com
+Vultr,澳大利亚(悉尼) - Australia(Sydney),syd-au-ping.vultr.com
+Vultr,澳大利亚(墨尔本) - Australia(Melbourne),mel-au-ping.vultr.com
+Vultr,日本(东京) - Japan(Tokyo),hnd-jp-ping.vultr.com
+Vultr,韩国(首尔) - South Korea(Seoul),sel-kor-ping.vultr.com
+Vultr,新加坡(新加坡) - Singapore(Singapore),sgp-ping.vultr.com
+Vultr,美国(洛杉矶) - United States(Los Angeles),lax-ca-us-ping.vultr.com
+Vultr,美国(硅谷) - United States(Silicon Valley),sjo-ca-us-ping.vultr.com
+Vultr,美国(迈阿密) - United States(Miami),fl-us-ping.vultr.com
+Vultr,美国(亚特兰大) - United States(Atlanta),ga-us-ping.vultr.com
+Vultr,美国(檀香山) - United States(Honolulu),hon-hi-us-ping.vultr.com
+Vultr,美国(芝加哥) - United States(Chicago),il-us-ping.vultr.com
+Vultr,美国(新泽西) - United States(New Jersey),nj-us-ping.vultr.com
+Vultr,美国(达拉斯) - United States(Dallas),tx-us-ping.vultr.com
+Vultr,美国(西雅图) - United States(Seattle),wa-us-ping.vultr.com
+Vultr,加拿大(多伦多) - Canada(Toronto),tor-ca-ping.vultr.com
+Vultr,墨西哥(墨西哥城) - Mexico(Mexico City),mex-mx-ping.vultr.com
+Vultr,巴西(圣保罗) - Brazil(S?o Paulo),sao-br-ping.vultr.com
+Vultr,德国(法兰克福) - Germany(Frankfurt),fra-de-ping.vultr.com
+Vultr,西班牙(马德里) - Spain(Madrid),mad-es-ping.vultr.com
+Vultr,法国(巴黎) - France(Paris),par-fr-ping.vultr.com
+Vultr,英国(伦敦) - United Kingdom(London),lon-gb-ping.vultr.com
+Vultr,荷兰(阿姆斯特丹) - Netherlands(Amsterdam),ams-nl-ping.vultr.com
+Vultr,波兰(华沙) - Poland(Warsaw),waw-pl-ping.vultr.com
+Vultr,瑞典(斯德哥尔摩) - Sweden(Stockholm),sto-se-ping.vultr.com

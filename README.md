@@ -44,6 +44,8 @@ clouds_test.cmd
 ```
 
 如果没有任何参数，就会测试csv文件里所有的服务器
+![image](https://github.com/hanckjt/clouds_test/assets/16874002/9107236a-60db-43a0-a0e2-407954767b96)
+
 
 ---
 
